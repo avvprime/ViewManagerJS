@@ -1,5 +1,5 @@
 # ViewManagerJS
-Simple manager class for properly resizing canvas html element.
+Simple manager class for resizing canvas html element.
 
 Call setup function to create a canvas, it will automatically listen and updates on resize events.
 ```
